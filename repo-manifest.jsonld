@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/kivy/kivy-designer/commit/20343184a28c2851faf0c1ab451d0286d147a441",
       "git:hexsha": "20343184a28c2851faf0c1ab451d0286d147a441",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T12:11:40.307920+00:00"
     }
   ]
 }
