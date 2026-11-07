@@ -1,0 +1,11 @@
+{
+  "org": "kivy",
+  "repo": "kivy-designer",
+  "versions": [
+    {
+      "commit": "20343184a28c2851faf0c1ab451d0286d147a441",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:11:40.308399+00:00"
+    }
+  ]
+}
